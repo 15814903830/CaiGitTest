@@ -17,5 +17,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //提交测试
+        //第一步创建仓库
+        //创建完以后都执行第二步就可以了
+        //现在开始第二步
     }
 }
